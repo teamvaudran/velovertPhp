@@ -1,0 +1,10 @@
+.navbar-fixed {
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+  }
+
+  body{
+      background-color: #d8efe1;
+  }
